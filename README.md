@@ -1,3 +1,5 @@
+![Selenium Tests](https://github.com/Julieta-entivero/selenium-ecommerce-automation/actions/workflows/tests.yml/badge.svg)
+
 # Selenium E-Commerce Automation
 
 Framework de automatizacion de pruebas para [SauceDemo](https://www.saucedemo.com/) utilizando Selenium WebDriver con Java y el patron Page Object Model (POM).
